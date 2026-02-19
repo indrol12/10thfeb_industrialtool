@@ -6,7 +6,7 @@ boolean username=true;
 boolean password=true;
 if(username==true && password==true)
 {
-	System.out.println("login successfull");
+	System.out.println("login successful");
 }
 else {
 	System.out.println("login unsuccessfull");
